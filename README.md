@@ -18,3 +18,6 @@ A real-time 3D simulation of all 8 planets orbiting the Sun, built in the browse
 
 # Interactive Planet Details
 Clicking any planet triggers a smooth camera fly-in that locks onto and follows the planet through its orbit. A detailed info panel displays real astronomical data for each body in the Solar System.
+
+Planetary textures provided by Solar System Scope — free for use under their texture license.
+https://www.solarsystemscope.com/textures/
