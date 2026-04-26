@@ -6,8 +6,11 @@ Each planet has its own real texture map, accurate relative size, and orbital sp
 A few details I'm particularly proud of:
 
 •	Earth has a real day/night shader — the side facing the Sun shows the daymap, the dark side shows city lights at night, and the boundary shifts naturally as Earth orbits
+
 •	Saturn has a semi-transparent ring with an alpha texture
+
 •	Jupiter's four Galilean moons orbit independently
+
 •	An adjustable speed slider lets you slow down or speed up the entire system
 
 # Solar System Orbital View
